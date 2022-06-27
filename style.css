@@ -26,6 +26,20 @@ h1#heading{
 
 }
 
+.input-div > h1 {
+    /* border: 1px solid black; */
+    margin-top: 11px;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    padding-left: 15px;
+    color: #222222
+
+}
+.equal{
+    margin-top: 20px;
+}
+
 .inpt{
     padding: 5px 10px;
     box-shadow: 5px 8px black;
